@@ -5,7 +5,8 @@ a simple solder fume extractor built around a 12025 fan and a 10mm carbon filter
 no overthinking. just airflow, filtration, and basic control.
 
 ---
-
+![alt text](image-1.png)
+![alt text](image-2.png)
 ## what this is
 
 a desk fume extractor for:
