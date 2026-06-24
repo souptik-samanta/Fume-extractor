@@ -19,7 +19,6 @@ pulls air through a carbon layer using a 120mm fan and pushes it out the back.
 
 ## system overview
 
-```
 
 usb-c pd / dc jack
 ↓
@@ -121,5 +120,5 @@ built to sit on a desk and just remove smoke while working.
 
 nothing more.
 nothing less.
-```
+
 # Fume-extractor
