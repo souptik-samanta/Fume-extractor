@@ -1,6 +1,9 @@
 # fume extractor
 
 a simple solder fume extractor built around a 12025 fan and a 10mm carbon filter.
+# build view 
+https://youtube.com/shorts/cXh-5Utj3hs?si=uV84-_hatQghXdfE
+https://stasis.hackclub-assets.com/images/1782660776460-ti1qpt.jpg
 
 no overthinking. just airflow, filtration, and basic control.
 
